@@ -1,6 +1,6 @@
 # Instragram Clon with Flutter
 
-Youtube video : https://www.youtube.com/watch?v=lf631gx56Fo&t=1289s
+Youtube video : https://youtu.be/xzMmr9WUVE4
 
 ## Instalación
 Para ejecutar este proyecto por su cuenta, haga lo siguiente:
